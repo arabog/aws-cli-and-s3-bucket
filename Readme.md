@@ -64,7 +64,7 @@ In the command above,
 5. Navigate back to the S3 dashboard (AWS web console), and verify if the bucket has been deleted successfully.  
 ![bucket2](bucket2.png?raw=true "bucket2")
 
-## Step 4. [Optional] Delete the newly created UdacityLab IAM user
+## Step 4. [Optional] Delete the newly created Babs IAM user
 Note - We are assuming that your AWS root user access key is set in the default profile using the command `aws configure --profile default`. Use the `cat ~/.aws/credentials` command to list all the credentials set locally.  
 
 1. View the list of all users (other than the root user) in your AWS account.  
